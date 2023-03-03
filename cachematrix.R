@@ -1,6 +1,5 @@
 ## This function creates a especial vector
 
-## Write a short comment describing this function
 library (MASS)
 makeCacheMatrix <- function(x = matrix()) {
  rev <- NULL
